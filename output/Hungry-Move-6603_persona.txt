@@ -1,0 +1,19 @@
+User Persona for Reddit User: Hungry-Move-6603
+==================================================
+
+Interests:
+- lucknow (mentioned 9 times) [Citations: Post ID: 1lzuq0r, Post ID: 1lx50qm]
+- nagpur (mentioned 2 times) [Citations: Comment ID: n2ybup0, Comment ID: n2y7g0s]
+- delhi (mentioned 1 times) [Citations: Comment ID: n3902xk]
+- indiaunfilter (mentioned 1 times) [Citations: Comment ID: n2vkdpb]
+- indiasocial (mentioned 1 times) [Citations: Comment ID: n2hx8z7]
+
+Demographics:
+- Activity Level: Active (based on 3 posts and 12 comments analyzed)
+- Language Complexity: Moderate (based on average 19.4 words per contribution)
+
+Behavior:
+- Active Time: Most active around 10:00 UTC (based on post and comment timestamps)
+
+Overall Sentiment:
+- General tone: Neutral (avg score: 0.02) [Citations: 1lzuq0r, 1lx50qm, 1lwyhny]

@@ -1,0 +1,19 @@
+User Persona for Reddit User: kojied
+==================================================
+
+Interests:
+- askreddit (mentioned 16 times) [Citations: Post ID: 1hnx8j0, Post ID: 1hnx7lj]
+- civ5 (mentioned 16 times) [Citations: Comment ID: mk73w0o, Comment ID: mdxgebg]
+- asknyc (mentioned 11 times) [Citations: Comment ID: mexk4g8, Comment ID: m4j0ese]
+- visionpro (mentioned 9 times) [Citations: Post ID: 1b4yi15, Post ID: 1b36n83]
+- manorlords (mentioned 9 times) [Citations: Comment ID: n2r16t2, Comment ID: n2dn0vm]
+
+Demographics:
+- Activity Level: Active (based on 31 posts and 100 comments analyzed)
+- Language Complexity: Moderate (based on average 43.5 words per contribution)
+
+Behavior:
+- Active Time: Most active around 12:00 UTC (based on post and comment timestamps)
+
+Overall Sentiment:
+- General tone: Positive (avg score: 0.15) [Citations: 1lykkqf, 1hnx8j0, 1hnx7lj]
